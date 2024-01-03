@@ -33,3 +33,8 @@ Clone or Download this repository and store it on your machine.
 ``` bash
 git clone https://github.com/aakashmohole/Face-and-Eye-Detection-OpenCV.git
 ```
+
+## Demo Image 📽️:
+
+![](https://github.com/aakashmohole/Face-and-Eye-Detection-OpenCV/blob/main/%5BOpenCV%5D%20%20Face%20and%20Eye%20Detection/OIP.jpg)
+

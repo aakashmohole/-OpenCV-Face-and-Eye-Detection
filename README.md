@@ -1,4 +1,4 @@
-# Face-and-Eye-Detection-OpenCV [Project 01]
+# 🎭 Face-and-Eye-Detection-OpenCV [Project 01]
 Face and Eye Detection was created using Computer Vision, OpenCV, and Numpy. 
 
 
